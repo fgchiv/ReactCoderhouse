@@ -1,0 +1,13 @@
+.ContainerItem{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    align-items: center;
+    padding-top: 11vh;
+}
+.ImageItem{
+    width: 50%;
+}
