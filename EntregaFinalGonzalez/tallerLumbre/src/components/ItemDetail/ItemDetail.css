@@ -1,0 +1,39 @@
+.ContainerDetail{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    min-height: 81vh;
+}
+
+.PriceStockAdd{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    align-items: center;
+    width: 25%;
+    padding-top: 30px;
+
+}
+
+.QuantityStock{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+
+}
+.ItemDetail{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-right: 15%;
+    text-align: center;
+    align-items: center;
+    width: 70%;
+}
+.ImageItem{
+    height: 40vh;
+}

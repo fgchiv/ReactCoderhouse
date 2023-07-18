@@ -1,0 +1,40 @@
+.ContainerCheckout{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding-top: 11vh;
+    min-height: 81vh;
+}
+
+.ItemsTableContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-right: 6%;
+    text-align: center;
+    align-items: center;
+    width: 65%;
+}
+
+.CheckoutFormContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    text-align: center;
+    align-items: center;
+    width: 30%;
+    padding-top: 5px;
+}
+
+.CheckoutForm{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.InputTextFields{
+    margin: 20px;
+    width: 350px;
+}

@@ -1,0 +1,15 @@
+.ContainerItems{
+    display: grid;
+    grid-template-columns: repeat(4, 20%);
+    margin-left: 6%;
+    gap:5%;
+    text-align: center;
+    padding-top: 3vh;
+    margin-bottom: 33vh;
+    min-height: 39vh;
+}
+
+.Title{
+    padding-top: 10vh;
+    text-align: center;
+}
